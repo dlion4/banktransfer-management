@@ -1,0 +1,158 @@
+[
+    {
+        "location": "North America",
+        "banks": [
+            {
+                "name": "Bank of America",
+                "type": "savings",
+                "account_name": "SyncPay Account",
+                "account_number": "67763773929282",
+                "fisc_code": 67463
+            },
+            {
+                "name": "Wells Fargo",
+                "type": "checking",
+                "account_name": "Personal Checking",
+                "account_number": "83726382917382",
+                "fisc_code": 58723
+            },
+            {
+                "name": "Royal Bank of Canada",
+                "type": "savings",
+                "account_name": "RBC Savings",
+                "account_number": "91728373617283",
+                "fisc_code": 12345
+            }
+        ]
+    },
+    {
+        "location": "Europe",
+        "banks": [
+            {
+                "name": "Deutsche Bank",
+                "type": "checking",
+                "account_name": "Corporate Account",
+                "account_number": "11223344556677",
+                "fisc_code": 77568
+            },
+            {
+                "name": "Barclays",
+                "type": "savings",
+                "account_name": "Barclays Saver",
+                "account_number": "99887766554433",
+                "fisc_code": 99871
+            },
+            {
+                "name": "BNP Paribas",
+                "type": "savings",
+                "account_name": "BNP Premium",
+                "account_number": "12345678901234",
+                "fisc_code": 54321
+            }
+        ]
+    },
+    {
+        "location": "Asia",
+        "banks": [
+            {
+                "name": "ICICI Bank",
+                "type": "savings",
+                "account_name": "ICICI Platinum",
+                "account_number": "55667788990011",
+                "fisc_code": 76234
+            },
+            {
+                "name": "Mitsubishi UFJ Financial Group",
+                "type": "checking",
+                "account_name": "MUFG Corporate",
+                "account_number": "99882233445566",
+                "fisc_code": 33456
+            },
+            {
+                "name": "China Construction Bank",
+                "type": "savings",
+                "account_name": "CCB Wealth",
+                "account_number": "44556677889900",
+                "fisc_code": 87654
+            }
+        ]
+    },
+    {
+        "location": "Africa",
+        "banks": [
+            {
+                "name": "First National Bank",
+                "type": "savings",
+                "account_name": "FNB Gold",
+                "account_number": "66554433221100",
+                "fisc_code": 76543
+            },
+            {
+                "name": "Zenith Bank",
+                "type": "checking",
+                "account_name": "Zenith Business",
+                "account_number": "99881122334455",
+                "fisc_code": 22334
+            },
+            {
+                "name": "Standard Bank",
+                "type": "savings",
+                "account_name": "Standard Saver",
+                "account_number": "33445566778899",
+                "fisc_code": 55667
+            }
+        ]
+    },
+    {
+        "location": "South America",
+        "banks": [
+            {
+                "name": "Banco do Brasil",
+                "type": "checking",
+                "account_name": "BB Premium",
+                "account_number": "22334455667788",
+                "fisc_code": 98765
+            },
+            {
+                "name": "Itaú Unibanco",
+                "type": "savings",
+                "account_name": "Itaú Savings",
+                "account_number": "77889900112233",
+                "fisc_code": 11223
+            },
+            {
+                "name": "Banco Santander Brasil",
+                "type": "checking",
+                "account_name": "Santander Corporate",
+                "account_number": "55667788990022",
+                "fisc_code": 33445
+            }
+        ]
+    },
+    {
+        "location": "Australia",
+        "banks": [
+            {
+                "name": "Commonwealth Bank",
+                "type": "savings",
+                "account_name": "CBA Wealth",
+                "account_number": "77889900112234",
+                "fisc_code": 99881
+            },
+            {
+                "name": "Westpac",
+                "type": "checking",
+                "account_name": "Westpac Corporate",
+                "account_number": "55667788990033",
+                "fisc_code": 66554
+            },
+            {
+                "name": "ANZ",
+                "type": "savings",
+                "account_name": "ANZ Saver",
+                "account_number": "33445566778811",
+                "fisc_code": 55443
+            }
+        ]
+    }
+]
